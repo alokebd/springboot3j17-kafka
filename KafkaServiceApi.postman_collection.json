@@ -1,0 +1,19 @@
+{
+	"info": {
+		"_postman_id": "a2dbf0b4-82d5-48dc-8cbf-7155704ad747",
+		"name": "KafkaServiceApi",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "33936986"
+	},
+	"item": [
+		{
+			"name": "http://localhost:8080/location",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"url": "http://localhost:8082/location"
+			},
+			"response": []
+		}
+	]
+}
